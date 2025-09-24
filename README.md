@@ -1,4 +1,4 @@
-Based on the project files you've provided, here is a README file for a GitHub repository.
+
 
 ### **Project Title: COVID Bed Slot Booking System**
 
